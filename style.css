@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(78, 78, 192);
+}
+#logo {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input {
+    height: 25px;
+    width: 225px;
+    background-color: rgb(31, 148, 148);
+    color: rgb(186, 215, 238);
+}
+#secondinput {
+    height: 25px;
+    width: 225px;
+    background-color: rgb(31, 148, 148);
+    color: rgb(186, 215, 238);
+}
+#output {
+    height: 25px;
+    width: 225px;
+    background-color: rgb(31, 148, 148);
+    color: rgb(186, 215, 238);
+}
+#add {
+    height: 35px;
+    width: 35px;
+    font-size: 25px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
+#subtract {
+    height: 35px;
+    width: 35px;
+    font-size: 25px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
+#multiply {
+    height: 35px;
+    width: 35px;
+    font-size: 25px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
+#divide {
+    height: 35px;
+    width: 35px;
+    font-size: 25px;
+    background-color: darkblue;
+    color: whitesmoke;
+}
